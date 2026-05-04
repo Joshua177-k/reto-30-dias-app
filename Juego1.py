@@ -29,4 +29,3 @@ emoji_label.pack()
 boton.pack(pady=100)
 
 ventana.mainloop()
-
